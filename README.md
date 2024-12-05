@@ -2,7 +2,7 @@
 
 ## Unreal Project Files 
 
-*see Release link for build* download windows.zip and run exe. Separate link information can be found in document - handed in seperately.
+*see Releases 1 - Technical Art Build link for build* Download windows.zip and run exe. Separate link information can be found in document - handed in seperately.
 
 ### Key Requirements
 Unreal Engine 5:
