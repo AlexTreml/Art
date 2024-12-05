@@ -2,8 +2,8 @@
 
 ## Unreal Project Files 
 
-*Note - the build (windows.zip) is not downloadable and will not download correctly, as it is over the LFS non payment limit, therefore GitHub have disabled LFS. 
-See Task document (handed in seperately) for details of location of build.
+*Note - the build (windows.zip) was not downloadable and will not download correctly, as it is over the LFS *non-payment* limit, therefore GitHub have disabled LFS without payment. I have now removed this file. 
+*See Task document (handed in seperately) for details of location of build*.
 
 ### Key Requirements
 Unreal Engine 5:
