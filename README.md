@@ -4,7 +4,7 @@
 
 *see Releases 1 - Technical Art Build link for build* Download windows.zip and run exe. Separate link information can be found in document - handed in seperately.
 
-### Key Requirements
+### Key Project Requirements
 Unreal Engine 5:
 
 The project must be developed using Unreal Engine 5, taking advantage of its advanced features such as Nanite for high-fidelity assets, Lumen for real-time global illumination, and optional tools like World Partition.
@@ -27,7 +27,7 @@ Desktop (Windows) Build:
 #### Ensure the final build runs smoothly on a Windows desktop environment, with optimisation techniques applied to maintain real-time performance and graphical fidelity.
 
 
-## Implementation overview. (See task document for details - handed in separately) 
+## Implementation overview. 
 
 ### Procedural Environments:
 
